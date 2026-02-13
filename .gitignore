@@ -1,0 +1,13 @@
+/.DS_Store
+/.editorconfig
+/.vs
+/.vscode
+/Assembly-CSharp.csproj
+/BirdJump.sln
+/Library
+/Logs
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
+/obj
